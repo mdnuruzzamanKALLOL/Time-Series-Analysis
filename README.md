@@ -43,7 +43,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 
 | # | Topic | Key Concepts | Status |
 |---|-------|-------------|:---:|
-| 01 | [Time Series Components & Decomposition](01_Time_Series_Components_Decomposition/) | Trend, seasonality, and residual decomposition | 🚧 |
+| 01 | [Time Series Components & Decomposition](01_Time_Series_Components_Decomposition/) | Trend, seasonality, and residual decomposition | ✅ |
 | 02 | [Stationarity & Unit Root Tests](02_Stationarity_Unit_Root_Tests/) | ADF and KPSS tests for a stable statistical structure over time | 🚧 |
 | 03 | [Autocorrelation & Partial Autocorrelation](03_Autocorrelation_Partial_Autocorrelation/) | ACF/PACF plots and what they reveal about model order | 🚧 |
 | 04 | [Moving Averages & Exponential Smoothing](04_Moving_Averages_Exponential_Smoothing/) | Simple, double, and triple (Holt-Winters) smoothing | 🚧 |

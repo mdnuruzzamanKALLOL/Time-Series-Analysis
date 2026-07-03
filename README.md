@@ -47,7 +47,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 02 | [Stationarity & Unit Root Tests](02_Stationarity_Unit_Root_Tests/) | ADF and KPSS tests for a stable statistical structure over time | ✅ |
 | 03 | [Autocorrelation & Partial Autocorrelation](03_Autocorrelation_Partial_Autocorrelation/) | ACF/PACF plots and what they reveal about model order | ✅ |
 | 04 | [Moving Averages & Exponential Smoothing](04_Moving_Averages_Exponential_Smoothing/) | Simple, double, and triple (Holt-Winters) smoothing | ✅ |
-| 05 | [AR, MA, ARMA Models](05_AR_MA_ARMA_Models/) | The building blocks of classical time series models | 🚧 |
+| 05 | [AR, MA, ARMA Models](05_AR_MA_ARMA_Models/) | The building blocks of classical time series models | ✅ |
 | 06 | [ARIMA](06_ARIMA/) | Combining autoregression, differencing, and moving averages | 🚧 |
 | 07 | [SARIMA](07_SARIMA/) | ARIMA extended with seasonal components | 🚧 |
 | 08 | [Vector Autoregression (VAR)](08_Vector_Autoregression_VAR/) | Modeling multiple interdependent time series jointly | 🚧 |

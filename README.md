@@ -60,7 +60,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 15 | [LSTM/GRU for Time Series Forecasting](15_LSTMGRU_for_Time_Series_Forecasting/) | Neural sequence models for forecasting | ✅ |
 | 16 | [Spectral Analysis & Fourier Transforms](16_Spectral_Analysis_Fourier_Transforms/) | Finding periodicities hidden in a time series | ✅ |
 | 17 | [Cointegration & Vector Error Correction Models](17_Cointegration_Vector_Error_Correction_Models/) | Long-run equilibrium relationships between non-stationary series | ✅ |
-| 18 | [Dynamic Time Warping & Time Series Clustering](18_Dynamic_Time_Warping_Time_Series_Clustering/) | Comparing and grouping series that are shifted or stretched in time | 🚧 |
+| 18 | [Dynamic Time Warping & Time Series Clustering](18_Dynamic_Time_Warping_Time_Series_Clustering/) | Comparing and grouping series that are shifted or stretched in time | ✅ |
 | 19 | [Change Point Detection](19_Change_Point_Detection/) | Finding where a series' statistical behavior shifts | 🚧 |
 | 20 | [Multi-Step Forecasting Strategies & Ensemble Forecasting](20_Multi_Step_Forecasting_Strategies_Ensemble_Forecasting/) | Recursive vs. direct forecasting, and combining multiple forecasts | 🚧 |
 
@@ -121,7 +121,7 @@ Every topic folder will be self-contained once built: read the `README.md` for t
 - `statsmodels` and `pmdarima` do the classical heavy lifting; `torch` is used for topic 15 (LSTM/GRU forecasting).
 
 ```bash
-pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-learn prophet torch jupyter
+pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-learn prophet torch dtaidistance jupyter
 ```
 
 ## 🚀 How to Use
@@ -133,7 +133,7 @@ pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-lea
 ```bash
 git clone https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis.git
 cd Time-Series-Analysis
-pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-learn prophet torch jupyter
+pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-learn prophet torch dtaidistance jupyter
 jupyter notebook
 ```
 

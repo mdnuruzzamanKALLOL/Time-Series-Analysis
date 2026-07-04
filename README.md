@@ -50,7 +50,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 05 | [AR, MA, ARMA Models](05_AR_MA_ARMA_Models/) | The building blocks of classical time series models | ✅ |
 | 06 | [ARIMA](06_ARIMA/) | Combining autoregression, differencing, and moving averages | ✅ |
 | 07 | [SARIMA](07_SARIMA/) | ARIMA extended with seasonal components | ✅ |
-| 08 | [Vector Autoregression (VAR)](08_Vector_Autoregression_VAR/) | Modeling multiple interdependent time series jointly | 🚧 |
+| 08 | [Vector Autoregression (VAR)](08_Vector_Autoregression_VAR/) | Modeling multiple interdependent time series jointly | ✅ |
 | 09 | [GARCH (Volatility Modeling)](09_GARCH_Volatility_Modeling/) | Modeling time-varying variance in financial and other series | 🚧 |
 | 10 | [Prophet Forecasting](10_Prophet_Forecasting/) | Facebook's additive forecasting model for business time series | 🚧 |
 | 11 | [Time Series Cross-Validation & Forecast Evaluation](11_Time_Series_Cross_Validation_Forecast_Evaluation/) | Why shuffled k-fold CV is wrong for time-ordered data | 🚧 |

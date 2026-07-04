@@ -62,9 +62,9 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 17 | [Cointegration & Vector Error Correction Models](17_Cointegration_Vector_Error_Correction_Models/) | Long-run equilibrium relationships between non-stationary series | ✅ |
 | 18 | [Dynamic Time Warping & Time Series Clustering](18_Dynamic_Time_Warping_Time_Series_Clustering/) | Comparing and grouping series that are shifted or stretched in time | ✅ |
 | 19 | [Change Point Detection](19_Change_Point_Detection/) | Finding where a series' statistical behavior shifts | ✅ |
-| 20 | [Multi-Step Forecasting Strategies & Ensemble Forecasting](20_Multi_Step_Forecasting_Strategies_Ensemble_Forecasting/) | Recursive vs. direct forecasting, and combining multiple forecasts | 🚧 |
+| 20 | [Multi-Step Forecasting Strategies & Ensemble Forecasting](20_Multi_Step_Forecasting_Strategies_Ensemble_Forecasting/) | Recursive vs. direct forecasting, and combining multiple forecasts | ✅ |
 
-**20 topics planned** — built one at a time, each with a deep-dive `README.md` (full math derivation in LaTeX, pitfalls, self-test exercises) and a fully-executed Jupyter notebook (30+ code cells), following the exact standard established in [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) and [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML).
+**All 20 topics complete** — built one at a time, each with a deep-dive `README.md` (full math derivation in LaTeX, pitfalls, self-test exercises) and a fully-executed Jupyter notebook (30+ code cells), following the exact standard established in [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) and [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML).
 
 ## 📁 Repository Structure
 
@@ -148,7 +148,7 @@ Real-data topics draw from the central **[Datasets](https://github.com/mdnuruzza
 | [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) | Python/NumPy/Pandas, Visualization, Preprocessing, Feature Engineering, Math | ✅ Complete |
 | [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML) | Regression, Classification, Ensembles, Unsupervised, Model Evaluation & Tuning (29 algorithms) | ✅ Complete |
 | [Statistical Inference & Hypothesis Testing](https://github.com/mdnuruzzamanKALLOL/Statistical-Inference-Hypothesis-Testing) | Probability through causal inference (20 topics) | 🚧 In progress |
-| [Time Series Analysis](https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis) | Decomposition through neural forecasting (20 topics) | 🚧 In progress |
+| [Time Series Analysis](https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis) | Decomposition through neural forecasting (20 topics) | ✅ Complete |
 | [Deep Learning Foundations](https://github.com/mdnuruzzamanKALLOL/Deep-Learning-Foundations) | Perceptron through GANs and interpretability (20 topics) | 🚧 In progress |
 | [Datasets](https://github.com/mdnuruzzamanKALLOL/Datasets) | 418 datasets (162 cataloged + personal collection) backing the whole series | ✅ Complete |
 

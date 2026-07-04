@@ -51,7 +51,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 06 | [ARIMA](06_ARIMA/) | Combining autoregression, differencing, and moving averages | ✅ |
 | 07 | [SARIMA](07_SARIMA/) | ARIMA extended with seasonal components | ✅ |
 | 08 | [Vector Autoregression (VAR)](08_Vector_Autoregression_VAR/) | Modeling multiple interdependent time series jointly | ✅ |
-| 09 | [GARCH (Volatility Modeling)](09_GARCH_Volatility_Modeling/) | Modeling time-varying variance in financial and other series | 🚧 |
+| 09 | [GARCH (Volatility Modeling)](09_GARCH_Volatility_Modeling/) | Modeling time-varying variance in financial and other series | ✅ |
 | 10 | [Prophet Forecasting](10_Prophet_Forecasting/) | Facebook's additive forecasting model for business time series | 🚧 |
 | 11 | [Time Series Cross-Validation & Forecast Evaluation](11_Time_Series_Cross_Validation_Forecast_Evaluation/) | Why shuffled k-fold CV is wrong for time-ordered data | 🚧 |
 | 12 | [State Space Models & Kalman Filter](12_State_Space_Models_Kalman_Filter/) | A unifying framework for time series with hidden states | 🚧 |
@@ -121,7 +121,7 @@ Every topic folder will be self-contained once built: read the `README.md` for t
 - `statsmodels` and `pmdarima` do the classical heavy lifting; `torch` or `tensorflow` is only needed for topic 15 (LSTM/GRU forecasting).
 
 ```bash
-pip install numpy pandas matplotlib seaborn statsmodels pmdarima scikit-learn prophet jupyter
+pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-learn prophet jupyter
 ```
 
 ## 🚀 How to Use
@@ -133,7 +133,7 @@ pip install numpy pandas matplotlib seaborn statsmodels pmdarima scikit-learn pr
 ```bash
 git clone https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis.git
 cd Time-Series-Analysis
-pip install numpy pandas matplotlib seaborn statsmodels pmdarima scikit-learn prophet jupyter
+pip install numpy pandas matplotlib seaborn statsmodels pmdarima arch scikit-learn prophet jupyter
 jupyter notebook
 ```
 

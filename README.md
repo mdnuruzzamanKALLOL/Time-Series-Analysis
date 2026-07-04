@@ -58,7 +58,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 13 | [Time Series Feature Engineering](13_Time_Series_Feature_Engineering/) | Lag features, rolling statistics, and Fourier features | ✅ |
 | 14 | [Anomaly Detection in Time Series](14_Anomaly_Detection_in_Time_Series/) | Finding points and periods that don't fit the pattern | ✅ |
 | 15 | [LSTM/GRU for Time Series Forecasting](15_LSTMGRU_for_Time_Series_Forecasting/) | Neural sequence models for forecasting | ✅ |
-| 16 | [Spectral Analysis & Fourier Transforms](16_Spectral_Analysis_Fourier_Transforms/) | Finding periodicities hidden in a time series | 🚧 |
+| 16 | [Spectral Analysis & Fourier Transforms](16_Spectral_Analysis_Fourier_Transforms/) | Finding periodicities hidden in a time series | ✅ |
 | 17 | [Cointegration & Vector Error Correction Models](17_Cointegration_Vector_Error_Correction_Models/) | Long-run equilibrium relationships between non-stationary series | 🚧 |
 | 18 | [Dynamic Time Warping & Time Series Clustering](18_Dynamic_Time_Warping_Time_Series_Clustering/) | Comparing and grouping series that are shifted or stretched in time | 🚧 |
 | 19 | [Change Point Detection](19_Change_Point_Detection/) | Finding where a series' statistical behavior shifts | 🚧 |

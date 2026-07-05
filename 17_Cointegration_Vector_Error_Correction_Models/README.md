@@ -167,3 +167,9 @@ VECM wins 6 of 8 folds and reduces overall MAE by **12.63%**. A Diebold-Mariano 
 
 ---
 [← Back to Time Series Analysis](../README.md)
+<!-- page-views-badge -->
+<div align="center" style="margin-top: 16px;">
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.TimeSeriesAnalysis.17_Cointegration_Vector_Error_Correction_Models&left_color=%23FF6F00&right_color=%230e75b6&left_text=Page%20Views)
+
+</div>
